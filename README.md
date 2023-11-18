@@ -1,6 +1,12 @@
-# TraversyTutorial
+# Task-Tracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+
+## Uses json-server
+
+Run `npm run server` to get the json-server up and running.
+Server: `http://localhost:5000/`
+db file in the root directory: db.json
 
 ## Development server
 
